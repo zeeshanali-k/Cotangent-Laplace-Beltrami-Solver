@@ -1,6 +1,6 @@
 # CUDA-Accelerated Cotangent Laplace-Beltrami Solver for Surface Reaction-Diffusion PDEs
 
-![Surface Reaction-Diffusion Bifurcation Regimes](results_bifurcation.png)
+![Surface Reaction-Diffusion Bifurcation Regimes](Results.png)
 
 A high-performance **Discrete Differential Geometry (DDG)** and **Sparse Matrix-Vector (CSR SpMV)** PDE solver implemented in **CUDA C++** for simulating coupled non-linear reaction-diffusion systems directly on arbitrary 2-manifold triangle meshes.
 
